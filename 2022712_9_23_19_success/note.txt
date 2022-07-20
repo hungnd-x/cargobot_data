@@ -1,0 +1,5 @@
+Chassis: Scout Mini
+Resolution: VGA
+Time: 9 a.m
+Weather: sunny without shadow from tree
+Route: 3 times each curve, a little bit to the rightside
